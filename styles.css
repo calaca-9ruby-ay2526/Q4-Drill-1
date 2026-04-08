@@ -1,0 +1,16 @@
+body {
+background-image: url(background\ 3.jpg);
+}
+
+.container {
+    align-items: center;
+    margin-top: 20px;
+ }
+.containertext {
+    width: 255px;
+   
+}
+.container2 {
+    background-image: url(background.jpg);
+    width: 600px;
+}
